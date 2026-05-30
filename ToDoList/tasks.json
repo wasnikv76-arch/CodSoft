@@ -1,0 +1,32 @@
+[
+    {
+        "taskId": 6,
+        "title": "Learn Python Fundamentals",
+        "done": true
+    },
+    {
+        "taskId": 7,
+        "title": "Build Calculator Project",
+        "done": true
+    },
+    {
+        "taskId": 8,
+        "title": "Create To-Do backend",
+        "done": true
+    },
+    {
+        "taskId": 9,
+        "title": "Design Tkinter Interface",
+        "done": true
+    },
+    {
+        "taskId": 10,
+        "title": "Explore Python Libraries",
+        "done": false
+    },
+    {
+        "taskId": 11,
+        "title": "Start new Project",
+        "done": false
+    }
+]

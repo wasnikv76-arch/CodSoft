@@ -62,6 +62,19 @@ entry_search = tk.Entry(search_frame, font=("Georgia", 11), bg="#f5f3ff", fg="#1
 entry_search.insert(0, "Search tasks...")
 entry_search.pack(side="left", fill="x", expand=True, ipady=8, ipadx=8)
 
+def on_search_focus_in(e):
+    if entry_search.get() == "Search tasks...":
+        entry_search.delete(0, "end")
+        entry_search.config(fg="#1a1a2e")
+
+def on_search_focus_out(e):
+    if not entry_search.get():
+        entry_search.insert(0, "Search tasks...")
+        entry_search.config(fg="#9090b0")
+
+entry_search.bind("<FocusIn>", on_search_focus_in)
+entry_search.bind("<FocusOut>", on_search_focus_out)
+
 entry_row = tk.Frame(right, bg="#ffffff")
 entry_row.pack(fill="x", padx=24, pady=(0, 16))
 

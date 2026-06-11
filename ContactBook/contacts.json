@@ -1,0 +1,100 @@
+[
+    {
+        "id": 7,
+        "name": "Gustavo Fring",
+        "mobNo": "9887766554",
+        "email": "gus@polloshermanos.com",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 4,
+        "name": "Hank Schrader",
+        "mobNo": "9988776655",
+        "email": "hank@dea.gov",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 13,
+        "name": "Hector Salamancaa",
+        "mobNo": "9112233445",
+        "email": "hector@casa.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 2,
+        "name": "Jesse Pinkman",
+        "mobNo": "8956234512",
+        "email": "yothisisjesse@business.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 5,
+        "name": "Marie Schrader",
+        "mobNo": "9765432109",
+        "email": "marie@purplelife.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 8,
+        "name": "Mike Ehrmantraut",
+        "mobNo": "9554433221",
+        "email": "mike@security.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 6,
+        "name": "Saul Goodman",
+        "mobNo": "9001122334",
+        "email": "bettercallsaul@law.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 14,
+        "name": "Skinny Pete",
+        "mobNo": "9332211445",
+        "email": "skinnypete@music.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 3,
+        "name": "Skyler White",
+        "mobNo": "9123456780",
+        "email": "skyler@whiteresidence.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 11,
+        "name": "Todd Alquist",
+        "mobNo": "9456123780",
+        "email": "todd@vamonospest.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 12,
+        "name": "Tuco Salamanca",
+        "mobNo": "9234567812",
+        "email": "tuco@salamanca.nm",
+        "address": "Albuquerque, New Mexico"
+    },
+    {
+        "id": 17,
+        "name": "Vaibhav",
+        "mobNo": "9999999963",
+        "email": "vaibhav@mail.com",
+        "address": "Nagpur"
+    },
+    {
+        "id": 18,
+        "name": "Walter White",
+        "mobNo": "9876543210",
+        "email": "heisenberge@abq.nm",
+        "address": "Albuquerque,New Mexico"
+    },
+    {
+        "id": 9,
+        "name": "Walter White Jr.",
+        "mobNo": "123334333433",
+        "email": "flynn@whiteresidence.nm",
+        "address": "Albuquerque, New Mexico"
+    }
+]

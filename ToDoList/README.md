@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List App - Task 1
 
 A desktop To-Do List application built using Python and Tkinter.
 
